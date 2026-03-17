@@ -1,0 +1,14 @@
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\obj\Debug\net10.0-windows\FruitSlot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\obj\Debug\net10.0-windows\FruitSlot.AssemblyInfoInputs.cache
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\obj\Debug\net10.0-windows\FruitSlot.AssemblyInfo.cs
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\obj\Debug\net10.0-windows\FruitSlot.csproj.CoreCompileInputs.cache
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\bin\Debug\net10.0-windows\FruitSlot.exe
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\bin\Debug\net10.0-windows\FruitSlot.deps.json
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\bin\Debug\net10.0-windows\FruitSlot.runtimeconfig.json
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\bin\Debug\net10.0-windows\FruitSlot.dll
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\bin\Debug\net10.0-windows\FruitSlot.pdb
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\obj\Debug\net10.0-windows\FruitSlot.dll
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\obj\Debug\net10.0-windows\refint\FruitSlot.dll
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\obj\Debug\net10.0-windows\FruitSlot.pdb
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\obj\Debug\net10.0-windows\FruitSlot.genruntimeconfig.cache
+C:\Users\onews\OneDrive\Desktop\SmallSlotMachine\obj\Debug\net10.0-windows\ref\FruitSlot.dll
