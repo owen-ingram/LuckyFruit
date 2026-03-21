@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "lltvGUGDXMY=",
+  "dgSpecHash": "T1qx0b1GB/k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\onews\\OneDrive\\Desktop\\SmallSlotMachine\\FruitSlot.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "E:\\UnityProjects\\LuckyFruit\\LuckyFruitSlotMachine\\FruitSlot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\onews\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\10.0.3\\microsoft.netcore.app.runtime.win-x64.10.0.3.nupkg.sha512",
+    "C:\\Users\\onews\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\10.0.3\\microsoft.windowsdesktop.app.runtime.win-x64.10.0.3.nupkg.sha512",
+    "C:\\Users\\onews\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\10.0.3\\microsoft.aspnetcore.app.runtime.win-x64.10.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
