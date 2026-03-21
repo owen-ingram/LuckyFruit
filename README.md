@@ -23,14 +23,17 @@ Par sheet can be produced via a .CSV file showing probability and statistics for
 
 ## How to run:
 
-Option 1:  
-Download 'FruitSlot.exe' from the [releases](https://github.com/owen-ingram/LuckyFruit/releases/tag/v1.0) page, Press play to begin.
+## How to Run
 
-Option 2:  
-*requires .Net 10 SDK*  
-git clone https://github.com/owen-ingram/LuckyFruit  
-cd LuckyFruit  
+**Option 1 — Download and run**  
+Download [LuckyFruits.zip](https://github.com/owen-ingram/LuckyFruit/releases) from the Releases page, extract it, and run `FruitSlot.exe`
+
+**Option 2 — Build from source** *(requires [.NET 10 SDK](https://dotnet.microsoft.com/download))*  
+```bash
+git clone https://github.com/owen-ingram/LuckyFruit
+cd LuckyFruit
 dotnet run
+```
 
 ## Project Structure
 ```
