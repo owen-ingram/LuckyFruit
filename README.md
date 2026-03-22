@@ -21,8 +21,6 @@ Par sheet can be produced via a .CSV file showing probability and statistics for
 <img width="900" height="600" alt="SlotParSheetSS" src="https://github.com/user-attachments/assets/4a210c32-6302-4c49-8d04-c5a7ad32f753" />
 </p align="center">
 
-## How to run:
-
 ## How to Run
 
 **Option 1 — Download and run**  
